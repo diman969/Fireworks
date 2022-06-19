@@ -1,0 +1,14 @@
+﻿  Cannon.cpp
+C:\Users\Diman\source\repos\FireworkEmulator\FireworkEmulator\Cannon.h(28,41): warning C4244: 'argument': conversion from 'double' to 'const size_t', possible loss of data
+  Console.cpp
+C:\Users\Diman\source\repos\FireworkEmulator\FireworkEmulator\Cannon.h(28,41): warning C4244: 'argument': conversion from 'double' to 'const size_t', possible loss of data
+C:\Users\Diman\source\repos\FireworkEmulator\FireworkEmulator\Console.cpp(26,29): warning C4267: '=': conversion from 'size_t' to 'SHORT', possible loss of data
+C:\Users\Diman\source\repos\FireworkEmulator\FireworkEmulator\Console.cpp(27,29): warning C4267: '=': conversion from 'size_t' to 'SHORT', possible loss of data
+  Simulator.cpp
+C:\Users\Diman\source\repos\FireworkEmulator\FireworkEmulator\Cannon.h(28,41): warning C4244: 'argument': conversion from 'double' to 'const size_t', possible loss of data
+  Source.cpp
+C:\Users\Diman\source\repos\FireworkEmulator\FireworkEmulator\Cannon.h(28,41): warning C4244: 'argument': conversion from 'double' to 'const size_t', possible loss of data
+C:\Users\Diman\source\repos\FireworkEmulator\FireworkEmulator\Source.cpp(5,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Phisics.cpp
+  Generating Code...
+  FireworkEmulator.vcxproj -> C:\Users\Diman\source\repos\FireworkEmulator\x64\Debug\FireworkEmulator.exe
